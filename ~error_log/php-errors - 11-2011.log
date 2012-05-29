@@ -1,0 +1,268 @@
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[17-Nov-2011 16:03:35] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 182
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[17-Nov-2011 16:03:36] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 256
+[20-Nov-2011 09:03:21] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 173
+[20-Nov-2011 09:03:21] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 173
+[20-Nov-2011 09:03:22] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 259
+[20-Nov-2011 09:03:22] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 259
+[20-Nov-2011 09:03:22] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 173
+[20-Nov-2011 09:03:22] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 173
+[20-Nov-2011 09:03:22] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 259
+[20-Nov-2011 09:03:22] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 259
+[21-Nov-2011 12:30:38] -RESOLVED- PHP Warning:  Division by zero in C:\webs\printable\test.php on line 11
+[21-Nov-2011 13:03:15] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 177
+[21-Nov-2011 13:03:15] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 177
+[21-Nov-2011 13:03:15] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 263
+[21-Nov-2011 13:03:15] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 263
+[21-Nov-2011 16:43:34] -RESOLVED- PHP Warning:  DOMDocument::createElement(): unterminated entity reference        Diabetes in C:\webs\printable\load_printable_job_tickets\create_xml_for_job_ticket.php on line 84
+[28-Nov-2011 01:10:04] -RESOLVED- PHP Warning:  DOMDocument::createElement(): unterminated entity reference           QSK19 in C:\webs\printable\load_printable_job_tickets\create_xml_for_job_ticket.php on line 82
+[28-Nov-2011 01:10:04] -RESOLVED- PHP Warning:  DOMDocument::createElement(): unterminated entity reference  Nonconformance Log Sht. in C:\webs\printable\load_printable_job_tickets\create_xml_for_job_ticket.php on line 82
+[28-Nov-2011 09:10:02] -RESOLVED- PHP Warning:  DOMDocument::saveXML(): string is not in UTF-8 in C:\webs\printable\load_printable_job_tickets\create_xml_for_job_ticket.php on line 97
+[28-Nov-2011 09:10:02] -RESOLVED- PHP Warning:  DOMDocument::saveXML(): string is not in UTF-8 in C:\webs\printable\load_printable_job_tickets\create_xml_for_job_ticket.php on line 99
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 250
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 254
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 277
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:03:13] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 300
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 250
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 254
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 277
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:03:14] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 300
+[28-Nov-2011 12:18:15] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:18:15] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:18:15] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:18:15] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:18:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:18:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 12:18:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:18:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 292
+[28-Nov-2011 12:31:08] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 271
+[28-Nov-2011 12:31:08] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 271
+[28-Nov-2011 12:31:08] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 296
+[28-Nov-2011 12:31:08] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 296
+[28-Nov-2011 12:40:52] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 271
+[28-Nov-2011 12:40:52] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 271
+[28-Nov-2011 12:40:52] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 296
+[28-Nov-2011 12:40:52] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 296
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 249
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 253
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 275
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 12:56:12] -RESOLVED- PHP Notice:  Undefined variable: count in C:\webs\printable\printable_to_logic\insert_fgi.php on line 298
+[28-Nov-2011 13:20:58] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:20:58] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:20:58] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:20:58] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:27:08] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:27:09] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:27:09] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:27:09] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:27:09] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:43] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:43] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:43] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:43] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:44] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:44] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:44] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:44] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:45] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:45] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:45] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:45] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:46] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:47] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:47] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 266
+[28-Nov-2011 13:41:47] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:41:47] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 290
+[28-Nov-2011 13:56:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 13:56:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 13:56:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 291
+[28-Nov-2011 13:56:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 291
+[28-Nov-2011 13:56:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 13:56:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 267
+[28-Nov-2011 13:56:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 291
+[28-Nov-2011 13:56:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 291
+[28-Nov-2011 14:35:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderMast__28ADE706'. Cannot insert duplicate key in object 'dbo.FGIOrderMast'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderMast__28ADE706'. Cannot insert duplicate key in object 'dbo.FGIOrderMast'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__Shipments__39A43435'. Cannot insert duplicate key in object 'dbo.Shipments'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 233
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 233
+[28-Nov-2011 14:35:17] -RESOLVED- INSERT error, insert_fgi.php, line 210, Shipment Number: 1, FG Order Num: 1
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 14:35:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderMast__28ADE706'. Cannot insert duplicate key in object 'dbo.FGIOrderMast'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__Shipments__39A43435'. Cannot insert duplicate key in object 'dbo.Shipments'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 233
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 233
+[28-Nov-2011 14:35:18] -RESOLVED- INSERT error, insert_fgi.php, line 210, Shipment Number: 1, FG Order Num: 1
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 14:35:18] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderMast__28ADE706'. Cannot insert duplicate key in object 'dbo.FGIOrderMast'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__Shipments__39A43435'. Cannot insert duplicate key in object 'dbo.Shipments'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 233
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 233
+[28-Nov-2011 14:35:19] -RESOLVED- INSERT error, insert_fgi.php, line 210, Shipment Number: 1, FG Order Num: 1
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 14:35:19] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:03:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:03:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:03:16] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:03:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:03:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:03:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:03:17] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:03:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:38] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:39] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:39] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:39] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:42] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:43] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:43] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:43] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:43] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:46] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:46] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 15:50:46] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 15:50:46] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:03:20] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:03:20] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:03:20] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:03:20] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:03:21] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:29] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:29] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:29] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:29] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:31] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:31] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:31] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:31] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:32] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:34] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:34] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:34] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:34] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:35] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:35] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:35] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:35] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:36] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__FGIOrderDetl__13B2CA20'. Cannot insert duplicate key in object 'dbo.FGIOrderDetl'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:36] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 279
+[28-Nov-2011 16:39:36] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'PK__ShipmentItems__79BEB94A'. Cannot insert duplicate key in object 'dbo.ShipmentItems'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[28-Nov-2011 16:39:36] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 303
+[29-Nov-2011 09:03:23] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[29-Nov-2011 09:03:23] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[29-Nov-2011 09:03:23] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[29-Nov-2011 09:03:23] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 196
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[29-Nov-2011 09:03:24] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 281
+[02-Dec-2011 12:45:01] -RESOLVED- PHP Notice:  Use of undefined constant SQL_Host - assumed 'SQL_Host' in C:\webs\printable\test.php on line 10
+[02-Dec-2011 12:45:01] -RESOLVED- PHP Notice:  Use of undefined constant SQL_Login - assumed 'SQL_Login' in C:\webs\printable\test.php on line 10
+[02-Dec-2011 12:45:01] -RESOLVED- PHP Notice:  Use of undefined constant SQL_Password - assumed 'SQL_Password' in C:\webs\printable\test.php on line 10
+[02-Dec-2011 12:45:07] -RESOLVED- PHP Warning:  mssql_connect() [<a href='function.mssql-connect'>function.mssql-connect</a>]: Unable to connect to server:  SQL_Host in C:\webs\printable\test.php on line 10
+[02-Dec-2011 12:46:40] -RESOLVED- PHP Warning:  mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: Incorrect syntax near '.'. (severity 15) in C:\webs\printable\test.php on line 23
+[02-Dec-2011 12:46:40] -RESOLVED- PHP Warning:  mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: Incorrect syntax near ')'. (severity 15) in C:\webs\printable\test.php on line 23
+[02-Dec-2011 12:46:40] -RESOLVED- PHP Warning:  mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: Query failed in C:\webs\printable\test.php on line 23
+[02-Dec-2011 12:46:40] -RESOLVED- Get MAX query failed for Job Ticker: JT-23278
+[02-Dec-2011 12:48:30] -RESOLVED- PHP Warning:  mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: message: The server principal &quot;phptest&quot; is not able to access the database &quot;pLogic&quot; under the current security context. (severity 14) in C:\webs\printable\test.php on line 23
+[02-Dec-2011 12:48:30] -RESOLVED- PHP Warning:  mssql_query() [<a href='function.mssql-query'>function.mssql-query</a>]: Query failed in C:\webs\printable\test.php on line 23
+[02-Dec-2011 12:48:30] -RESOLVED- Get MAX query failed for Job Ticker: JT-23278
+[02-Dec-2011 12:49:13] -RESOLVED- PHP Notice:  Undefined variable: query in C:\webs\printable\test.php on line 31
+[02-Dec-2011 12:49:13] -RESOLVED- PHP Warning:  mssql_fetch_array(): supplied argument is not a valid MS SQL-result resource in C:\webs\printable\test.php on line 31
+[02-Dec-2011 12:55:08] -RESOLVED- PHP Parse error:  parse error in C:\webs\printable\test.php on line 43
+[02-Dec-2011 12:58:35] -RESOLVED- PHP Parse error:  parse error, expecting `','' or `';'' in C:\webs\printable\test.php on line 36
+[02-Dec-2011 15:34:41] -RESOLVED- PHP Notice:  Undefined variable: record in C:\webs\printable\test.php on line 23
+[02-Dec-2011 15:37:37] -RESOLVED- PHP Notice:  Undefined variable: dbLogic in C:\webs\printable\test.php on line 21
+[02-Dec-2011 15:37:37] -RESOLVED- PHP Warning:  mssql_query(): supplied argument is not a valid MS SQL-Link resource in C:\webs\printable\test.php on line 21
+[02-Dec-2011 15:37:37] -RESOLVED- PHP Warning:  mssql_fetch_array(): supplied argument is not a valid MS SQL-result resource in C:\webs\printable\test.php on line 23
+[02-Dec-2011 15:37:37] -RESOLVED- PHP Notice:  Undefined variable: shipmentNumber in C:\webs\printable\test.php on line 28
+[02-Dec-2011 15:38:02] -RESOLVED- PHP Notice:  Undefined variable: dbLogic in C:\webs\printable\test.php on line 21
+[02-Dec-2011 15:38:02] -RESOLVED- PHP Warning:  mssql_query(): supplied argument is not a valid MS SQL-Link resource in C:\webs\printable\test.php on line 21
+[02-Dec-2011 15:38:02] -RESOLVED- PHP Warning:  mssql_fetch_array(): supplied argument is not a valid MS SQL-result resource in C:\webs\printable\test.php on line 23
+[02-Dec-2011 15:38:02] -RESOLVED- PHP Notice:  Undefined variable: shipmentNumber in C:\webs\printable\test.php on line 28
+[02-Dec-2011 15:45:14] -RESOLVED- PHP Warning:  mssql_query(): message: The server principal "phptest" is not able to access the database "pLogic" under the current security context. (severity 14) in C:\webs\printable\printable_to_logic\get_max_line_num_per_JT.php on line 15
+[02-Dec-2011 15:45:14] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\get_max_line_num_per_JT.php on line 15
+[02-Dec-2011 15:45:14] -RESOLVED- PHP Notice:  Undefined variable: jt_number in C:\webs\printable\printable_to_logic\get_max_line_num_per_JT.php on line 19
+[02-Dec-2011 15:45:14] -RESOLVED- Get MAX query failed for Job Ticket: 
+[02-Dec-2011 15:45:20] -RESOLVED- PHP Warning:  mssql_query(): message: The server principal "phptest" is not able to access the database "pLogic" under the current security context. (severity 14) in C:\webs\printable\printable_to_logic\get_max_line_num_per_JT.php on line 15
+[02-Dec-2011 15:45:20] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\get_max_line_num_per_JT.php on line 15
+[02-Dec-2011 15:45:20] -RESOLVED- PHP Notice:  Undefined variable: jt_number in C:\webs\printable\printable_to_logic\get_max_line_num_per_JT.php on line 19
+[02-Dec-2011 15:45:20] -RESOLVED- Get MAX query failed for Job Ticket: 

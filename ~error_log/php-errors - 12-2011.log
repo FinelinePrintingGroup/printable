@@ -1,0 +1,970 @@
+[05-Dec-2011 08:19:42] -RESOLVED- PHP Warning:  Division by zero in C:\webs\printable\test.php on line 30
+[05-Dec-2011 14:03:17] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 191
+[05-Dec-2011 14:03:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 191
+[05-Dec-2011 14:03:17] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_FGIOrderDetlFGIOrderMast". The conflict occurred in database "pLogic", table "dbo.FGIOrderMast", column 'OrderN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 282
+[05-Dec-2011 14:03:17] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 282
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Notice:  Undefined variable: prodCode in C:\webs\printable\printable_to_logic\insert_logic.php on line 156
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_logic.php on line 178
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_logic.php on line 178
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Notice:  Undefined variable: ctMCC in C:\webs\printable\printable_to_logic\insert_logic.php on line 181
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_JobShipmentsOpenJob". The conflict occurred in database "pLogic", table "dbo.OpenJob", column 'JobN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_logic.php on line 229
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_logic.php on line 229
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Notice:  Undefined variable: isPurchase in C:\webs\printable\printable_to_logic\insert_logic.php on line 246
+[06-Dec-2011 15:59:09] -RESOLVED- PHP Notice:  Undefined variable: outputType in C:\webs\printable\printable_to_logic\insert_logic.php on line 246
+[06-Dec-2011 23:29:19] -RESOLVED- PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 44 bytes) in C:\webs\printable\load_printable_job_tickets\get_job_tickets_by_date.php on line 25
+[06-Dec-2011 23:29:19] -RESOLVED- PHP Fatal error:  Uncaught SoapFault exception: [Client] Allowed memory size of 33554432 bytes exhausted (tried to allocate 44 bytes) in C:\webs\printable\load_printable_job_tickets\get_job_tickets_by_date.php:25 Stack trace:#0 [internal function]: SoapClient->__call('GetJobTicketsBy...', Array) #1 C:\webs\printable\load_printable_job_tickets\get_job_tickets_by_date.php(25): SoapClient->GetJobTicketsByDate(Object(stdClass)) #2 C:\webs\printable\load_printable_job_tickets\!load_printable_job_tickets.php(32): get_job_tickets_by_date('2011-11-13', '2011-12-06T23:2...', true) #3 {main} thrown in C:\webs\printable\load_printable_job_tickets\get_job_tickets_by_date.php on line 25
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'OrderDetails_PK'. Cannot insert duplicate key in object 'dbo.OrderDetails'. (severity 14) in C:\webs\printable\load_printable_job_tickets\orderdetail_insert.php on line 268
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\load_printable_job_tickets\orderdetail_insert.php on line 268
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'OrderDetails_PK'. Cannot insert duplicate key in object 'dbo.OrderDetails'. (severity 14) in C:\webs\printable\load_printable_job_tickets\orderdetail_insert.php on line 268
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\load_printable_job_tickets\orderdetail_insert.php on line 268
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Warning:  mssql_query(): message: Violation of PRIMARY KEY constraint 'OrderDetails_PK'. Cannot insert duplicate key in object 'dbo.OrderDetails'. (severity 14) in C:\webs\printable\load_printable_job_tickets\orderdetail_insert.php on line 268
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\load_printable_job_tickets\orderdetail_insert.php on line 268
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Notice:  Undefined variable: orderType in C:\webs\printable\printable_to_logic\insert_logic.php on line 69
+[06-Dec-2011 23:34:50] -RESOLVED- PHP Notice:  Undefined variable: orderType in C:\webs\printable\printable_to_logic\insert_logic.php on line 69
+[06-Dec-2011 23:34:51] -RESOLVED- PHP Notice:  Undefined variable: orderType in C:\webs\printable\printable_to_logic\insert_logic.php on line 69
+[06-Dec-2011 23:34:51] -RESOLVED- PHP Notice:  Undefined variable: orderType in C:\webs\printable\printable_to_logic\insert_logic.php on line 69
+[06-Dec-2011 23:34:51] -RESOLVED- PHP Notice:  Undefined variable: orderType in C:\webs\printable\printable_to_logic\insert_logic.php on line 69
+[06-Dec-2011 23:34:51] -RESOLVED- PHP Notice:  Undefined variable: orderType in C:\webs\printable\printable_to_logic\insert_logic.php on line 69
+[07-Dec-2011 01:03:16] -RESOLVED- PHP Warning:  mssql_query(): message: The SELECT permission was denied on the object 'ShipMethods', database 'pLogic', schema 'dbo'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 95
+[07-Dec-2011 01:03:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 95
+[07-Dec-2011 01:03:16] -RESOLVED- PHP Warning:  mssql_fetch_array(): supplied argument is not a valid MS SQL-result resource in C:\webs\printable\printable_to_logic\insert_fgi.php on line 96
+[07-Dec-2011 01:03:16] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near ','. (severity 15) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 238
+[07-Dec-2011 01:03:16] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 238
+[07-Dec-2011 01:03:20] -RESOLVED- INSERT error, insert_fgi.php, line 210, Shipment Number: 141939, FG Order Num: 8664
+[07-Dec-2011 01:03:20] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_ShipmentItemsShipments". The conflict occurred in database "pLogic", table "dbo.Shipments", column 'ShipmentNumber'. (severity 16) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 313
+[07-Dec-2011 01:03:20] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 313
+[07-Dec-2011 08:32:09] -RESOLVED- PHP Warning:  mssql_query(): message: The SELECT permission was denied on the object 'ShipMethods', database 'pLogic', schema 'dbo'. (severity 14) in C:\webs\printable\printable_to_logic\insert_fgi.php on line 95
+[07-Dec-2011 08:32:09] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_fgi.php on line 95
+[07-Dec-2011 08:32:09] -RESOLVED- PHP Warning:  mssql_fetch_array(): supplied argument is not a valid MS SQL-result resource in C:\webs\printable\printable_to_logic\insert_fgi.php on line 96
+[14-Dec-2011 10:03:17] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 10:03:17] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 10:03:19] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 10:03:19] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 11:03:14] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 11:03:14] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:21] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:21] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:22] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:22] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:22] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:23] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:23] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:23] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:24] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:24] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:24] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:24] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:25] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:25] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:25] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:26] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:26] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:26] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:27] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:27] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:27] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:28] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:28] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:28] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:28] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:29] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:29] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:29] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:30] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:30] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:30] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:30] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:31] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:31] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:31] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:31] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:32] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:32] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:32] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:33] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:33] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:33] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 12:03:35] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 96
+[14-Dec-2011 12:03:35] -RESOLVED- PHP Notice:  Undefined variable: ctBind in C:\webs\printable\printable_to_logic\insert_logic.php on line 194
+[14-Dec-2011 13:03:20] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 97
+[14-Dec-2011 13:03:20] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 97
+[14-Dec-2011 13:03:22] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 97
+[14-Dec-2011 13:03:22] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 97
+[14-Dec-2011 13:03:23] -RESOLVED- PHP Notice:  Undefined index:  Instructions_BinderyInstructions in C:\webs\printable\printable_to_logic\insert_logic.php on line 97
+[14-Dec-2011 16:03:23] JobN: 100241 - Entered
+[14-Dec-2011 17:03:20] JobN: 100247 - Entered
+[15-Dec-2011 09:03:20] JobN: 100248 - Entered
+[15-Dec-2011 10:03:18] JobN: 100249 - Entered
+[15-Dec-2011 11:03:18] JobN: 100254 - Entered
+[15-Dec-2011 12:03:22] JobN: 100255 - Entered
+[15-Dec-2011 12:03:22] JobN: 100256 - Entered
+[15-Dec-2011 12:03:23] JobN: 100257 - Entered
+[15-Dec-2011 12:03:23] JobN: 100258 - Entered
+[15-Dec-2011 12:03:24] JobN: 100259 - Entered
+[15-Dec-2011 12:03:25] JobN: 100260 - Entered
+[15-Dec-2011 12:30:20] JobN: 100266 - Entered
+[15-Dec-2011 12:30:20] JobN: 100267 - Entered
+[15-Dec-2011 12:30:21] JobN: 100268 - Entered
+[15-Dec-2011 14:03:24] JobN: 100274 - Entered
+[15-Dec-2011 15:03:24] JobN: 100276 - Entered
+[15-Dec-2011 15:03:24] JobN: 100277 - Entered
+[15-Dec-2011 15:03:25] JobN: 100278 - Entered
+[15-Dec-2011 16:03:23] JobN: 100284 - Entered
+[15-Dec-2011 16:03:24] JobN: 100285 - Entered
+[15-Dec-2011 16:03:24] JobN: 100286 - Entered
+[15-Dec-2011 16:03:25] JobN: 100287 - Entered
+[15-Dec-2011 16:51:50] JobN: 100295 - Entered
+[15-Dec-2011 16:51:51] JobN: 100296 - Entered
+[15-Dec-2011 16:51:51] JobN: 100297 - Entered
+[15-Dec-2011 16:51:52] JobN: 100298 - Entered
+[15-Dec-2011 16:51:53] JobN: 100299 - Entered
+[15-Dec-2011 21:03:20] JobN: 100300 - Entered
+[15-Dec-2011 21:03:20] JobN: 100301 - Entered
+[15-Dec-2011 22:03:20] JobN: 100302 - Entered
+[15-Dec-2011 22:03:20] JobN: 100303 - Entered
+[16-Dec-2011 01:03:21] JobN: 100304 - Entered
+[16-Dec-2011 02:03:24] JobN: 100305 - Entered
+[16-Dec-2011 02:03:25] JobN: 100306 - Entered
+[16-Dec-2011 09:03:21] JobN: 100310 - Entered
+[16-Dec-2011 09:03:21] JobN: 100311 - Entered
+[16-Dec-2011 09:03:22] JobN: 100312 - Entered
+[16-Dec-2011 09:05:04] File download successful for JT-23743
+[16-Dec-2011 09:05:06] File download successful for JT-23744
+[16-Dec-2011 09:05:08] File download successful for JT-23745
+[16-Dec-2011 09:25:08] JobN: 100314 - Entered
+[16-Dec-2011 09:43:34] JobN: 100319 - Entered
+[16-Dec-2011 09:43:47] File download successful for JT-23747
+[16-Dec-2011 09:46:36] XML creation SUCCESS : JT-23747
+[16-Dec-2011 10:03:33] JobN: 100320 - Entered
+[16-Dec-2011 10:05:06] File download successful for JT-23748
+[16-Dec-2011 10:10:00] XML creation success : JT-23748
+[16-Dec-2011 11:03:30] JobN: 100323 - Entered
+[16-Dec-2011 11:03:32] FGINumber: 8732 - Entered
+[16-Dec-2011 11:03:32] FGINumber: 8732 - Entered
+[16-Dec-2011 11:03:32] JobN: 100324 - Entered
+[16-Dec-2011 11:03:33] JobN: 100325 - Entered
+[16-Dec-2011 11:05:03] File download successful for JT-23752
+[16-Dec-2011 11:05:05] File download successful for JT-23753
+[16-Dec-2011 11:05:08] File download successful for JT-23749
+[16-Dec-2011 11:10:00] XML creation success : JT-23750
+[16-Dec-2011 11:10:01] XML creation success : JT-23751
+[16-Dec-2011 11:10:01] XML creation success : JT-23752
+[16-Dec-2011 11:10:01] XML creation success : JT-23753
+[16-Dec-2011 11:10:02] XML creation success : JT-23749
+[16-Dec-2011 12:03:30] FGINumber: 8733 - Entered
+[16-Dec-2011 12:03:30] FGINumber: 8733 - Entered
+[16-Dec-2011 12:10:01] XML creation success : JT-23754
+[16-Dec-2011 12:10:01] XML creation success : JT-23755
+[16-Dec-2011 13:03:24] JobN: 100329 - Entered
+[16-Dec-2011 13:05:04] File download successful for JT-23756
+[16-Dec-2011 13:10:00] XML creation success : JT-23756
+[16-Dec-2011 14:03:25] FGINumber: 8734 - Entered
+[16-Dec-2011 14:03:26] JobN: 100331 - Entered
+[16-Dec-2011 14:05:04] File download successful for JT-23758
+[16-Dec-2011 14:10:00] XML creation success : JT-23757
+[16-Dec-2011 14:10:01] XML creation success : JT-23758
+[18-Dec-2011 15:03:28] JobN: 100337 - Entered
+[18-Dec-2011 15:03:28] JobN: 100338 - Entered
+[18-Dec-2011 15:05:03] File download successful for JT-23759
+[18-Dec-2011 15:05:05] File download successful for JT-23760
+[18-Dec-2011 15:10:04] XML creation success : JT-23759
+[18-Dec-2011 15:10:04] XML creation success : JT-23760
+[19-Dec-2011 09:03:14] FGINumber: 8735 - Entered
+[19-Dec-2011 09:03:14] FGINumber: 8735 - Entered
+[19-Dec-2011 09:03:15] FGINumber: 8735 - Entered
+[19-Dec-2011 09:03:16] FGINumber: 8736 - Entered
+[19-Dec-2011 09:03:16] FGINumber: 8737 - Entered
+[19-Dec-2011 09:10:01] XML creation success : JT-23761
+[19-Dec-2011 09:10:01] XML creation success : JT-23762
+[19-Dec-2011 09:10:01] XML creation success : JT-23763
+[19-Dec-2011 09:10:01] XML creation success : JT-23764
+[19-Dec-2011 09:10:01] XML creation success : JT-23765
+[19-Dec-2011 11:03:11] JobN: 100351 - Entered
+[19-Dec-2011 11:03:12] JobN: 100352 - Entered
+[19-Dec-2011 11:03:13] JobN: 100353 - Entered
+[19-Dec-2011 11:03:13] JobN: 100354 - Entered
+[19-Dec-2011 11:03:14] FGINumber: 8738 - Entered
+[19-Dec-2011 11:03:15] JobN: 100355 - Entered
+[19-Dec-2011 11:03:15] JobN: 100356 - Entered
+[19-Dec-2011 11:03:16] JobN: 100357 - Entered
+[19-Dec-2011 11:03:16] JobN: 100358 - Entered
+[19-Dec-2011 11:03:17] JobN: 100359 - Entered
+[19-Dec-2011 11:05:03] File download successful for JT-23766
+[19-Dec-2011 11:05:08] File download successful for JT-23767
+[19-Dec-2011 11:05:10] File download successful for JT-23768
+[19-Dec-2011 11:05:13] File download successful for JT-23769
+[19-Dec-2011 11:05:15] File download successful for JT-23771
+[19-Dec-2011 11:05:17] File download successful for JT-23772
+[19-Dec-2011 11:05:19] File download successful for JT-23773
+[19-Dec-2011 11:05:22] File download successful for JT-23774
+[19-Dec-2011 11:05:24] File download successful for JT-23775
+[19-Dec-2011 11:10:00] XML creation success : JT-23766
+[19-Dec-2011 11:10:01] XML creation success : JT-23767
+[19-Dec-2011 11:10:01] XML creation success : JT-23768
+[19-Dec-2011 11:10:01] XML creation success : JT-23769
+[19-Dec-2011 11:10:01] XML creation success : JT-23770
+[19-Dec-2011 11:10:02] XML creation success : JT-23771
+[19-Dec-2011 11:10:02] XML creation success : JT-23772
+[19-Dec-2011 11:10:02] XML creation success : JT-23773
+[19-Dec-2011 11:10:02] XML creation success : JT-23774
+[19-Dec-2011 11:10:02] XML creation success : JT-23775
+[19-Dec-2011 12:03:09] JobN: 100362 - Entered
+[19-Dec-2011 12:05:03] File download successful for JT-23776
+[19-Dec-2011 12:10:02] XML creation success : JT-23776
+[19-Dec-2011 13:03:11] JobN: 100366 - Entered
+[19-Dec-2011 13:03:12] FGINumber: 8739 - Entered
+[19-Dec-2011 13:03:13] FGINumber: 8740 - Entered
+[19-Dec-2011 13:03:13] JobN: 100367 - Entered
+[19-Dec-2011 13:03:13] JobN: 100368 - Entered
+[19-Dec-2011 13:05:04] File download successful for JT-23777
+[19-Dec-2011 13:10:01] XML creation success : JT-23777
+[19-Dec-2011 13:10:01] XML creation success : JT-23778
+[19-Dec-2011 13:10:01] XML creation success : JT-23779
+[19-Dec-2011 13:10:01] XML creation success : JT-23780
+[19-Dec-2011 13:10:02] XML creation success : JT-23781
+[19-Dec-2011 14:03:09] JobN: 100371 - Entered
+[19-Dec-2011 14:05:04] File download successful for JT-23782
+[19-Dec-2011 14:10:00] XML creation success : JT-23782
+[19-Dec-2011 15:03:11] JobN: 100378 - Entered
+[19-Dec-2011 15:03:11] JobN: 100379 - Entered
+[19-Dec-2011 15:10:01] XML creation success : JT-23783
+[19-Dec-2011 15:10:01] XML creation success : JT-23784
+[19-Dec-2011 17:03:13] JobN: 100386 - Entered
+[19-Dec-2011 17:03:13] JobN: 100387 - Entered
+[19-Dec-2011 17:03:14] JobN: 100388 - Entered
+[19-Dec-2011 17:03:15] JobN: 100389 - Entered
+[19-Dec-2011 17:03:15] JobN: 100390 - Entered
+[19-Dec-2011 17:03:16] FGINumber: 8741 - Entered
+[19-Dec-2011 17:03:17] FGINumber: 8741 - Entered
+[19-Dec-2011 17:03:17] FGINumber: 8741 - Entered
+[19-Dec-2011 17:03:17] FGINumber: 8741 - Entered
+[19-Dec-2011 17:03:18] JobN: 100391 - Entered
+[19-Dec-2011 17:03:19] FGINumber: 8742 - Entered
+[19-Dec-2011 17:03:19] JobN: 100392 - Entered
+[19-Dec-2011 17:03:19] JobN: 100393 - Entered
+[19-Dec-2011 17:03:20] JobN: 100394 - Entered
+[19-Dec-2011 17:03:21] FGINumber: 8743 - Entered
+[19-Dec-2011 17:05:03] File download successful for JT-23797
+[19-Dec-2011 17:05:06] File download successful for JT-23798
+[19-Dec-2011 17:05:09] File download successful for JT-23785
+[19-Dec-2011 17:05:11] File download successful for JT-23786
+[19-Dec-2011 17:05:13] File download successful for JT-23787
+[19-Dec-2011 17:05:16] File download successful for JT-23788
+[19-Dec-2011 17:05:19] File download successful for JT-23789
+[19-Dec-2011 17:05:22] File download successful for JT-23796
+[19-Dec-2011 17:10:00] XML creation success : JT-23793
+[19-Dec-2011 17:10:01] XML creation success : JT-23794
+[19-Dec-2011 17:10:01] XML creation success : JT-23797
+[19-Dec-2011 17:10:01] XML creation success : JT-23798
+[19-Dec-2011 17:10:01] XML creation success : JT-23799
+[19-Dec-2011 17:10:02] XML creation success : JT-23785
+[19-Dec-2011 17:10:02] XML creation success : JT-23786
+[19-Dec-2011 17:10:02] XML creation success : JT-23787
+[19-Dec-2011 17:10:02] XML creation success : JT-23788
+[19-Dec-2011 17:10:02] XML creation success : JT-23789
+[19-Dec-2011 17:10:03] XML creation success : JT-23795
+[19-Dec-2011 17:10:03] XML creation success : JT-23790
+[19-Dec-2011 17:10:03] XML creation success : JT-23791
+[19-Dec-2011 17:10:03] XML creation success : JT-23792
+[19-Dec-2011 17:10:03] XML creation success : JT-23796
+[19-Dec-2011 18:03:12] JobN: 100395 - Entered
+[19-Dec-2011 18:05:03] File download successful for JT-23800
+[19-Dec-2011 18:10:00] XML creation success : JT-23800
+[19-Dec-2011 19:03:12] JobN: 100396 - Entered
+[19-Dec-2011 19:05:03] File download successful for JT-23801
+[19-Dec-2011 19:10:01] XML creation success : JT-23801
+[19-Dec-2011 20:03:11] JobN: 100397 - Entered
+[19-Dec-2011 20:05:02] File download successful for JT-23802
+[19-Dec-2011 20:10:00] XML creation success : JT-23802
+[19-Dec-2011 23:03:11] JobN: 100398 - Entered
+[19-Dec-2011 23:05:02] File download successful for JT-23803
+[19-Dec-2011 23:10:01] XML creation success : JT-23803
+[20-Dec-2011 09:03:13] JobN: 100401 - Entered
+[20-Dec-2011 09:03:15] FGINumber: 8744 - Entered
+[20-Dec-2011 09:03:16] FGINumber: 8745 - Entered
+[20-Dec-2011 09:03:16] FGINumber: 8745 - Entered
+[20-Dec-2011 09:05:03] File download successful for JT-23804
+[20-Dec-2011 09:10:04] XML creation success : JT-23804
+[20-Dec-2011 09:10:04] XML creation success : JT-23805
+[20-Dec-2011 09:10:04] XML creation success : JT-23806
+[20-Dec-2011 09:10:04] XML creation success : JT-23807
+[20-Dec-2011 11:03:11] JobN: 100408 - Entered
+[20-Dec-2011 11:03:12] JobN: 100409 - Entered
+[20-Dec-2011 11:03:12] JobN: 100410 - Entered
+[20-Dec-2011 11:03:13] JobN: 100411 - Entered
+[20-Dec-2011 11:03:14] JobN: 100412 - Entered
+[20-Dec-2011 11:03:15] FGINumber: 8749 - Entered
+[20-Dec-2011 11:05:02] File download successful for JT-23808
+[20-Dec-2011 11:05:05] File download successful for JT-23809
+[20-Dec-2011 11:05:07] File download successful for JT-23810
+[20-Dec-2011 11:05:09] File download successful for JT-23811
+[20-Dec-2011 11:05:11] File download successful for JT-23812
+[20-Dec-2011 11:10:04] XML creation success : JT-23808
+[20-Dec-2011 11:10:04] XML creation success : JT-23809
+[20-Dec-2011 11:10:05] XML creation success : JT-23810
+[20-Dec-2011 11:10:05] XML creation success : JT-23811
+[20-Dec-2011 11:10:05] XML creation success : JT-23812
+[20-Dec-2011 11:10:05] XML creation success : JT-23813
+[20-Dec-2011 12:03:13] JobN: 100419 - Entered
+[20-Dec-2011 12:03:13] JobN: 100420 - Entered
+[20-Dec-2011 12:03:14] JobN: 100421 - Entered
+[20-Dec-2011 12:03:14] JobN: 100422 - Entered
+[20-Dec-2011 12:03:15] JobN: 100423 - Entered
+[20-Dec-2011 12:03:15] JobN: 100424 - Entered
+[20-Dec-2011 12:03:16] JobN: 100425 - Entered
+[20-Dec-2011 12:03:16] JobN: 100426 - Entered
+[20-Dec-2011 12:03:17] JobN: 100427 - Entered
+[20-Dec-2011 12:03:17] JobN: 100428 - Entered
+[20-Dec-2011 12:03:18] JobN: 100429 - Entered
+[20-Dec-2011 12:05:03] File download successful for JT-23814
+[20-Dec-2011 12:05:05] File download successful for JT-23815
+[20-Dec-2011 12:05:07] File download successful for JT-23816
+[20-Dec-2011 12:05:09] File download successful for JT-23817
+[20-Dec-2011 12:05:11] File download successful for JT-23818
+[20-Dec-2011 12:05:13] File download successful for JT-23819
+[20-Dec-2011 12:05:16] File download successful for JT-23820
+[20-Dec-2011 12:05:18] File download successful for JT-23821
+[20-Dec-2011 12:05:20] File download successful for JT-23822
+[20-Dec-2011 12:05:22] File download successful for JT-23823
+[20-Dec-2011 12:05:24] File download successful for JT-23824
+[20-Dec-2011 12:10:00] XML creation success : JT-23814
+[20-Dec-2011 12:10:01] XML creation success : JT-23815
+[20-Dec-2011 12:10:01] XML creation success : JT-23816
+[20-Dec-2011 12:10:03] XML creation success : JT-23817
+[20-Dec-2011 12:10:03] XML creation success : JT-23818
+[20-Dec-2011 12:10:03] XML creation success : JT-23819
+[20-Dec-2011 12:10:03] XML creation success : JT-23820
+[20-Dec-2011 12:10:04] XML creation success : JT-23821
+[20-Dec-2011 12:10:04] XML creation success : JT-23822
+[20-Dec-2011 12:10:04] XML creation success : JT-23823
+[20-Dec-2011 12:10:04] XML creation success : JT-23824
+[20-Dec-2011 13:03:14] FGINumber: 8750 - Entered
+[20-Dec-2011 13:10:00] XML creation success : JT-23825
+[20-Dec-2011 14:03:13] JobN: 100430 - Entered
+[20-Dec-2011 14:05:02] File download successful for JT-23826
+[20-Dec-2011 14:10:01] XML creation success : JT-23826
+[20-Dec-2011 14:42:09] -RESOLVED- PHP Notice:  A non well formed numeric value encountered in C:\webs\printable\test.php on line 12
+[20-Dec-2011 14:42:24] -RESOLVED- PHP Notice:  A non well formed numeric value encountered in C:\webs\printable\test.php on line 12
+[20-Dec-2011 14:45:40] -RESOLVED- PHP Fatal error:  Call to undefined function date_create_from_format() in C:\webs\printable\test.php on line 12
+[20-Dec-2011 14:46:22] -RESOLVED- PHP Warning:  Unexpected character in input:  ''' (ASCII=39) state=1 in C:\webs\printable\test.php on line 12
+[20-Dec-2011 14:46:22] -RESOLVED- PHP Parse error:  parse error in C:\webs\printable\test.php on line 15
+[20-Dec-2011 14:46:32] -RESOLVED- PHP Parse error:  parse error in C:\webs\printable\test.php on line 15
+[20-Dec-2011 14:46:40] -RESOLVED- PHP Fatal error:  Call to undefined function date_create_from_format() in C:\webs\printable\test.php on line 12
+[20-Dec-2011 14:46:57] -RESOLVED- PHP Fatal error:  Call to undefined function date_create_from_format() in C:\webs\printable\test.php on line 12
+[20-Dec-2011 14:54:44] -RESOLVED- PHP Notice:  Undefined variable: date2 in C:\webs\printable\test.php on line 22
+[20-Dec-2011 14:55:03] -RESOLVED- PHP Notice:  A non well formed numeric value encountered in C:\webs\printable\test.php on line 14
+[20-Dec-2011 14:55:47] -RESOLVED- PHP Notice:  A non well formed numeric value encountered in C:\webs\printable\test.php on line 14
+[20-Dec-2011 14:55:47] -RESOLVED- PHP Notice:  A non well formed numeric value encountered in C:\webs\printable\test.php on line 25
+[20-Dec-2011 14:56:06] -RESOLVED- PHP Parse error:  parse error in C:\webs\printable\test.php on line 25
+[20-Dec-2011 14:56:12] -RESOLVED- PHP Notice:  A non well formed numeric value encountered in C:\webs\printable\test.php on line 14
+[20-Dec-2011 14:56:22] -RESOLVED- PHP Notice:  A non well formed numeric value encountered in C:\webs\printable\test.php on line 14
+[20-Dec-2011 15:03:19] JobN: 100432 - Entered
+[20-Dec-2011 15:03:20] JobN: 100433 - Entered
+[20-Dec-2011 15:03:21] JobN: 100434 - Entered
+[20-Dec-2011 15:03:21] JobN: 100435 - Entered
+[20-Dec-2011 15:03:22] JobN: 100436 - Entered
+[20-Dec-2011 15:03:22] JobN: 100437 - Entered
+[20-Dec-2011 15:03:23] JobN: 100438 - Entered
+[20-Dec-2011 15:03:23] JobN: 100439 - Entered
+[20-Dec-2011 15:03:24] JobN: 100440 - Entered
+[20-Dec-2011 15:03:25] JobN: 100441 - Entered
+[20-Dec-2011 15:03:25] JobN: 100442 - Entered
+[20-Dec-2011 15:03:26] JobN: 100443 - Entered
+[20-Dec-2011 15:03:26] JobN: 100444 - Entered
+[20-Dec-2011 15:03:27] JobN: 100445 - Entered
+[20-Dec-2011 15:03:27] JobN: 100446 - Entered
+[20-Dec-2011 15:03:28] JobN: 100447 - Entered
+[20-Dec-2011 15:03:28] JobN: 100448 - Entered
+[20-Dec-2011 15:03:29] JobN: 100449 - Entered
+[20-Dec-2011 15:03:30] JobN: 100450 - Entered
+[20-Dec-2011 15:03:30] JobN: 100451 - Entered
+[20-Dec-2011 15:03:31] JobN: 100452 - Entered
+[20-Dec-2011 15:03:31] JobN: 100453 - Entered
+[20-Dec-2011 15:05:02] File download successful for JT-23827
+[20-Dec-2011 15:05:03] File download successful for JT-23828
+[20-Dec-2011 15:05:05] File download successful for JT-23829
+[20-Dec-2011 15:05:06] File download successful for JT-23830
+[20-Dec-2011 15:05:08] File download successful for JT-23831
+[20-Dec-2011 15:05:09] File download successful for JT-23832
+[20-Dec-2011 15:05:10] File download successful for JT-23833
+[20-Dec-2011 15:05:12] File download successful for JT-23834
+[20-Dec-2011 15:05:13] File download successful for JT-23835
+[20-Dec-2011 15:05:14] File download successful for JT-23836
+[20-Dec-2011 15:05:16] File download successful for JT-23837
+[20-Dec-2011 15:05:17] File download successful for JT-23838
+[20-Dec-2011 15:05:19] File download successful for JT-23839
+[20-Dec-2011 15:05:20] File download successful for JT-23840
+[20-Dec-2011 15:05:22] File download successful for JT-23841
+[20-Dec-2011 15:05:23] File download successful for JT-23842
+[20-Dec-2011 15:05:25] File download successful for JT-23843
+[20-Dec-2011 15:05:26] File download successful for JT-23844
+[20-Dec-2011 15:05:27] File download successful for JT-23845
+[20-Dec-2011 15:05:29] File download successful for JT-23846
+[20-Dec-2011 15:05:30] File download successful for JT-23847
+[20-Dec-2011 15:05:31] File download successful for JT-23848
+[20-Dec-2011 15:10:00] XML creation success : JT-23827
+[20-Dec-2011 15:10:01] XML creation success : JT-23828
+[20-Dec-2011 15:10:01] XML creation success : JT-23829
+[20-Dec-2011 15:10:01] XML creation success : JT-23830
+[20-Dec-2011 15:10:01] XML creation success : JT-23831
+[20-Dec-2011 15:10:02] XML creation success : JT-23832
+[20-Dec-2011 15:10:02] XML creation success : JT-23833
+[20-Dec-2011 15:10:02] XML creation success : JT-23834
+[20-Dec-2011 15:10:02] XML creation success : JT-23835
+[20-Dec-2011 15:10:02] XML creation success : JT-23836
+[20-Dec-2011 15:10:03] XML creation success : JT-23837
+[20-Dec-2011 15:10:03] XML creation success : JT-23838
+[20-Dec-2011 15:10:03] XML creation success : JT-23839
+[20-Dec-2011 15:10:03] XML creation success : JT-23840
+[20-Dec-2011 15:10:03] XML creation success : JT-23841
+[20-Dec-2011 15:10:04] XML creation success : JT-23842
+[20-Dec-2011 15:10:04] XML creation success : JT-23843
+[20-Dec-2011 15:10:04] XML creation success : JT-23844
+[20-Dec-2011 15:10:04] XML creation success : JT-23845
+[20-Dec-2011 15:10:05] XML creation success : JT-23846
+[20-Dec-2011 15:10:05] XML creation success : JT-23847
+[20-Dec-2011 15:10:05] XML creation success : JT-23848
+[20-Dec-2011 15:37:07] JobN: 100456 - Entered
+[20-Dec-2011 15:37:08] JobN: 100457 - Entered
+[20-Dec-2011 15:37:22] File download successful for JT-23849
+[20-Dec-2011 15:37:26] File download successful for JT-23850
+[20-Dec-2011 15:37:40] XML creation success : JT-23849
+[20-Dec-2011 15:37:40] XML creation success : JT-23850
+[20-Dec-2011 16:03:18] JobN: 100459 - Entered
+[20-Dec-2011 16:03:20] FGINumber: 8751 - Entered
+[20-Dec-2011 16:03:20] JobN: 100460 - Entered
+[20-Dec-2011 16:03:21] JobN: 100461 - Entered
+[20-Dec-2011 16:03:21] JobN: 100462 - Entered
+[20-Dec-2011 16:03:22] JobN: 100463 - Entered
+[20-Dec-2011 16:05:01] File download successful for JT-23853
+[20-Dec-2011 16:05:03] File download successful for JT-23854
+[20-Dec-2011 16:05:04] File download successful for JT-23855
+[20-Dec-2011 16:05:05] File download successful for JT-23856
+[20-Dec-2011 16:08:50] XML creation success : JT-23851
+[20-Dec-2011 16:08:51] XML creation success : JT-23852
+[20-Dec-2011 16:08:51] XML creation success : JT-23853
+[20-Dec-2011 16:08:51] XML creation success : JT-23854
+[20-Dec-2011 16:08:51] XML creation success : JT-23855
+[20-Dec-2011 16:08:52] XML creation success : JT-23856
+[20-Dec-2011 16:10:03] RUSH order processed after 4:00PM
+[20-Dec-2011 16:10:03] JobN: 100464 - Entered
+[20-Dec-2011 16:10:17] File download successful for JT-23857
+[20-Dec-2011 16:10:27] XML creation success : JT-23857
+[20-Dec-2011 18:03:18] JobN: 100470 - Entered
+[20-Dec-2011 18:05:02] File download successful for JT-23858
+[20-Dec-2011 18:10:00] XML creation success : JT-23858
+[20-Dec-2011 20:03:16] JobN: 100471 - Entered
+[20-Dec-2011 20:05:02] File download successful for JT-23859
+[20-Dec-2011 20:10:01] XML creation success : JT-23859
+[20-Dec-2011 23:03:18] JobN: 100472 - Entered
+[20-Dec-2011 23:05:02] File download successful for JT-23860
+[20-Dec-2011 23:10:00] XML creation success : JT-23860
+[21-Dec-2011 10:03:22] FGINumber: 8760 - Entered
+[21-Dec-2011 10:03:23] FGINumber: 8761 - Entered
+[21-Dec-2011 10:03:24] FGINumber: 8762 - Entered
+[21-Dec-2011 10:10:01] XML creation success : JT-23861
+[21-Dec-2011 10:10:01] XML creation success : JT-23862
+[21-Dec-2011 10:10:01] XML creation success : JT-23863
+[21-Dec-2011 11:03:26] JobN: 100481 - Entered
+[21-Dec-2011 11:03:27] JobN: 100482 - Entered
+[21-Dec-2011 11:03:27] JobN: 100483 - Entered
+[21-Dec-2011 11:03:28] JobN: 100484 - Entered
+[21-Dec-2011 11:03:29] JobN: 100485 - Entered
+[21-Dec-2011 11:03:29] JobN: 100486 - Entered
+[21-Dec-2011 11:03:30] JobN: 100487 - Entered
+[21-Dec-2011 11:03:30] JobN: 100488 - Entered
+[21-Dec-2011 11:03:31] JobN: 100489 - Entered
+[21-Dec-2011 11:03:31] JobN: 100490 - Entered
+[21-Dec-2011 11:03:32] JobN: 100491 - Entered
+[21-Dec-2011 11:03:33] JobN: 100492 - Entered
+[21-Dec-2011 11:03:34] JobN: 100493 - Entered
+[21-Dec-2011 11:03:34] JobN: 100494 - Entered
+[21-Dec-2011 11:03:35] JobN: 100495 - Entered
+[21-Dec-2011 11:03:35] JobN: 100496 - Entered
+[21-Dec-2011 11:03:36] FGINumber: 8763 - Entered
+[21-Dec-2011 11:03:37] FGINumber: 8763 - Entered
+[21-Dec-2011 11:05:21] File download successful for JT-23871
+[21-Dec-2011 11:05:35] File download successful for JT-23864
+[21-Dec-2011 11:05:51] File download successful for JT-23865
+[21-Dec-2011 11:06:05] File download successful for JT-23866
+[21-Dec-2011 11:06:18] File download successful for JT-23867
+[21-Dec-2011 11:06:30] File download successful for JT-23868
+[21-Dec-2011 11:06:41] File download successful for JT-23869
+[21-Dec-2011 11:06:56] File download successful for JT-23870
+[21-Dec-2011 11:07:07] File download successful for JT-23872
+[21-Dec-2011 11:07:23] File download successful for JT-23873
+[21-Dec-2011 11:07:34] File download successful for JT-23874
+[21-Dec-2011 11:08:05] File download successful for JT-23875
+[21-Dec-2011 11:08:29] File download successful for JT-23876
+[21-Dec-2011 11:08:40] File download successful for JT-23877
+[21-Dec-2011 11:08:52] File download successful for JT-23878
+[21-Dec-2011 11:09:01] File download successful for JT-23879
+[21-Dec-2011 11:10:00] XML creation success : JT-23871
+[21-Dec-2011 11:10:01] XML creation success : JT-23864
+[21-Dec-2011 11:10:01] XML creation success : JT-23865
+[21-Dec-2011 11:10:01] XML creation success : JT-23866
+[21-Dec-2011 11:10:01] XML creation success : JT-23867
+[21-Dec-2011 11:10:02] XML creation success : JT-23868
+[21-Dec-2011 11:10:02] XML creation success : JT-23869
+[21-Dec-2011 11:10:02] XML creation success : JT-23870
+[21-Dec-2011 11:10:02] XML creation success : JT-23872
+[21-Dec-2011 11:10:02] XML creation success : JT-23873
+[21-Dec-2011 11:10:03] XML creation success : JT-23874
+[21-Dec-2011 11:10:03] XML creation success : JT-23875
+[21-Dec-2011 11:10:03] XML creation success : JT-23876
+[21-Dec-2011 11:10:03] XML creation success : JT-23877
+[21-Dec-2011 11:10:04] XML creation success : JT-23878
+[21-Dec-2011 11:10:04] XML creation success : JT-23879
+[21-Dec-2011 11:10:04] XML creation success : JT-23880
+[21-Dec-2011 11:10:04] XML creation success : JT-23881
+[21-Dec-2011 13:03:23] FGINumber: 8765 - Entered
+[21-Dec-2011 13:03:24] FGINumber: 8765 - Entered
+[21-Dec-2011 13:10:00] XML creation success : JT-23882
+[21-Dec-2011 13:10:01] XML creation success : JT-23883
+[21-Dec-2011 14:03:24] FGINumber: 8770 - Entered
+[21-Dec-2011 14:03:24] JobN: 100501 - Entered
+[21-Dec-2011 14:03:25] JobN: 100502 - Entered
+[21-Dec-2011 14:03:25] JobN: 100503 - Entered
+[21-Dec-2011 14:05:02] File download successful for JT-23885
+[21-Dec-2011 14:05:03] File download successful for JT-23886
+[21-Dec-2011 14:05:05] File download successful for JT-23887
+[21-Dec-2011 14:10:01] XML creation success : JT-23884
+[21-Dec-2011 14:10:01] XML creation success : JT-23885
+[21-Dec-2011 14:10:01] XML creation success : JT-23886
+[21-Dec-2011 14:10:01] XML creation success : JT-23887
+[21-Dec-2011 16:03:23] FGINumber: 8771 - Entered
+[21-Dec-2011 16:03:23] JobN: 100511 - Entered
+[21-Dec-2011 16:05:03] File download successful for JT-23889
+[21-Dec-2011 16:10:01] XML creation success : JT-23888
+[21-Dec-2011 16:10:01] XML creation success : JT-23889
+[22-Dec-2011 04:03:26] JobN: 100515 - Entered
+[22-Dec-2011 04:05:02] File download successful for JT-23890
+[22-Dec-2011 04:10:04] XML creation success : JT-23890
+[22-Dec-2011 09:03:23] JobN: 100519 - Entered
+[22-Dec-2011 09:03:24] FGINumber: 8772 - Entered
+[22-Dec-2011 09:03:25] FGINumber: 8772 - Entered
+[22-Dec-2011 09:03:25] JobN: 100520 - Entered
+[22-Dec-2011 09:05:02] File download successful for JT-23891
+[22-Dec-2011 09:05:03] File download successful for JT-23894
+[22-Dec-2011 09:10:03] XML creation success : JT-23891
+[22-Dec-2011 09:10:03] XML creation success : JT-23892
+[22-Dec-2011 09:10:03] XML creation success : JT-23893
+[22-Dec-2011 09:10:04] XML creation success : JT-23894
+[22-Dec-2011 10:03:21] JobN: 100521 - Entered
+[22-Dec-2011 10:05:02] File download successful for JT-23895
+[22-Dec-2011 10:10:00] XML creation success : JT-23895
+[22-Dec-2011 11:03:24] JobN: 100524 - Entered
+[22-Dec-2011 11:03:24] JobN: 100525 - Entered
+[22-Dec-2011 11:03:25] JobN: 100526 - Entered
+[22-Dec-2011 11:05:02] File download successful for JT-23896
+[22-Dec-2011 11:05:03] File download successful for JT-23897
+[22-Dec-2011 11:10:00] XML creation success : JT-23896
+[22-Dec-2011 11:10:01] XML creation success : JT-23897
+[22-Dec-2011 11:10:01] XML creation success : JT-23898
+[22-Dec-2011 14:03:26] JobN: 100536 - Entered
+[22-Dec-2011 14:03:27] JobN: 100537 - Entered
+[22-Dec-2011 14:03:28] JobN: 100538 - Entered
+[22-Dec-2011 14:05:02] File download successful for JT-23899
+[22-Dec-2011 14:10:01] XML creation success : JT-23901
+[22-Dec-2011 14:10:01] XML creation success : JT-23899
+[22-Dec-2011 14:10:01] XML creation success : JT-23900
+[22-Dec-2011 15:03:47] JobN: 100545 - Entered
+[22-Dec-2011 15:03:48] JobN: 100546 - Entered
+[22-Dec-2011 15:03:48] JobN: 100547 - Entered
+[22-Dec-2011 15:03:49] JobN: 100548 - Entered
+[22-Dec-2011 15:03:49] JobN: 100549 - Entered
+[22-Dec-2011 15:03:50] JobN: 100550 - Entered
+[22-Dec-2011 15:03:50] JobN: 100551 - Entered
+[22-Dec-2011 15:03:51] JobN: 100552 - Entered
+[22-Dec-2011 15:03:52] JobN: 100553 - Entered
+[22-Dec-2011 15:03:52] JobN: 100554 - Entered
+[22-Dec-2011 15:03:53] JobN: 100555 - Entered
+[22-Dec-2011 15:03:54] FGINumber: 8777 - Entered
+[22-Dec-2011 15:03:54] FGINumber: 8777 - Entered
+[22-Dec-2011 15:03:55] JobN: 100556 - Entered
+[22-Dec-2011 15:03:55] JobN: 100557 - Entered
+[22-Dec-2011 15:03:56] JobN: 100558 - Entered
+[22-Dec-2011 15:05:23] File download successful for JT-23902
+[22-Dec-2011 15:05:30] File download successful for JT-23903
+[22-Dec-2011 15:05:36] File download successful for JT-23904
+[22-Dec-2011 15:05:39] File download successful for JT-23905
+[22-Dec-2011 15:05:44] File download successful for JT-23906
+[22-Dec-2011 15:07:27] File download successful for JT-23907
+[22-Dec-2011 15:08:13] File download successful for JT-23908
+[22-Dec-2011 15:08:22] File download successful for JT-23909
+[22-Dec-2011 15:08:38] File download successful for JT-23910
+[22-Dec-2011 15:08:43] File download successful for JT-23911
+[22-Dec-2011 15:08:46] File download successful for JT-23912
+[22-Dec-2011 15:08:47] File download successful for JT-23915
+[22-Dec-2011 15:08:48] File download successful for JT-23916
+[22-Dec-2011 15:08:49] File download successful for JT-23917
+[22-Dec-2011 15:10:00] XML creation success : JT-23902
+[22-Dec-2011 15:10:01] XML creation success : JT-23903
+[22-Dec-2011 15:10:01] XML creation success : JT-23904
+[22-Dec-2011 15:10:01] XML creation success : JT-23905
+[22-Dec-2011 15:10:01] XML creation success : JT-23906
+[22-Dec-2011 15:10:01] XML creation success : JT-23907
+[22-Dec-2011 15:10:02] XML creation success : JT-23908
+[22-Dec-2011 15:10:02] XML creation success : JT-23909
+[22-Dec-2011 15:10:02] XML creation success : JT-23910
+[22-Dec-2011 15:10:02] XML creation success : JT-23911
+[22-Dec-2011 15:10:03] XML creation success : JT-23912
+[22-Dec-2011 15:10:03] XML creation success : JT-23913
+[22-Dec-2011 15:10:03] XML creation success : JT-23914
+[22-Dec-2011 15:10:03] XML creation success : JT-23915
+[22-Dec-2011 15:10:03] XML creation success : JT-23916
+[22-Dec-2011 15:10:04] XML creation success : JT-23917
+[22-Dec-2011 16:03:27] JobN: 100561 - Entered
+[22-Dec-2011 16:03:27] JobN: 100562 - Entered
+[22-Dec-2011 16:05:02] File download successful for JT-23918
+[22-Dec-2011 16:10:01] XML creation success : JT-23918
+[22-Dec-2011 16:10:01] XML creation success : JT-23919
+[22-Dec-2011 17:03:41] JobN: 100570 - Entered
+[22-Dec-2011 17:03:42] JobN: 100571 - Entered
+[22-Dec-2011 17:03:42] JobN: 100572 - Entered
+[22-Dec-2011 17:03:43] JobN: 100573 - Entered
+[22-Dec-2011 17:03:43] JobN: 100574 - Entered
+[22-Dec-2011 17:03:44] JobN: 100575 - Entered
+[22-Dec-2011 17:05:07] File download successful for JT-23920
+[22-Dec-2011 17:05:10] File download successful for JT-23921
+[22-Dec-2011 17:05:12] File download successful for JT-23922
+[22-Dec-2011 17:05:13] File download successful for JT-23923
+[22-Dec-2011 17:05:15] File download successful for JT-23924
+[22-Dec-2011 17:05:16] File download successful for JT-23925
+[22-Dec-2011 17:10:00] XML creation success : JT-23920
+[22-Dec-2011 17:10:01] XML creation success : JT-23921
+[22-Dec-2011 17:10:01] XML creation success : JT-23922
+[22-Dec-2011 17:10:01] XML creation success : JT-23923
+[22-Dec-2011 17:10:01] XML creation success : JT-23924
+[22-Dec-2011 17:10:02] XML creation success : JT-23925
+[23-Dec-2011 02:03:39] JobN: 100576 - Entered
+[23-Dec-2011 02:05:09] File download successful for JT-23926
+[23-Dec-2011 02:10:04] XML creation success : JT-23926
+[23-Dec-2011 08:46:08] JobN: 100580 - Entered
+[23-Dec-2011 08:46:08] JobN: 100581 - Entered
+[23-Dec-2011 08:46:09] JobN: 100582 - Entered
+[23-Dec-2011 08:46:31] File download successful for JT-23927
+[23-Dec-2011 08:46:32] File download successful for JT-23928
+[23-Dec-2011 08:46:33] File download successful for JT-23929
+[23-Dec-2011 08:46:45] XML creation success : JT-23927
+[23-Dec-2011 08:46:46] XML creation success : JT-23928
+[23-Dec-2011 08:46:46] XML creation success : JT-23929
+[23-Dec-2011 09:03:22] JobN: 100583 - Entered
+[23-Dec-2011 09:03:23] JobN: 100584 - Entered
+[23-Dec-2011 09:05:02] File download successful for JT-23930
+[23-Dec-2011 09:05:03] File download successful for JT-23931
+[23-Dec-2011 09:10:00] XML creation success : JT-23930
+[23-Dec-2011 09:10:01] XML creation success : JT-23931
+[23-Dec-2011 10:03:25] JobN: 100586 - Entered
+[23-Dec-2011 10:03:26] JobN: 100587 - Entered
+[23-Dec-2011 10:03:26] JobN: 100588 - Entered
+[23-Dec-2011 10:03:28] FGINumber: 8779 - Entered
+[23-Dec-2011 10:03:28] JobN: 100589 - Entered
+[23-Dec-2011 10:03:28] JobN: 100590 - Entered
+[23-Dec-2011 10:03:29] JobN: 100591 - Entered
+[23-Dec-2011 10:03:31] FGINumber: 8780 - Entered
+[23-Dec-2011 10:03:31] JobN: 100592 - Entered
+[23-Dec-2011 10:05:02] File download successful for JT-23932
+[23-Dec-2011 10:05:03] File download successful for JT-23933
+[23-Dec-2011 10:05:05] File download successful for JT-23934
+[23-Dec-2011 10:05:06] File download successful for JT-23936
+[23-Dec-2011 10:05:07] File download successful for JT-23937
+[23-Dec-2011 10:05:09] File download successful for JT-23938
+[23-Dec-2011 10:05:10] File download successful for JT-23940
+[23-Dec-2011 10:10:00] XML creation success : JT-23932
+[23-Dec-2011 10:10:01] XML creation success : JT-23933
+[23-Dec-2011 10:10:01] XML creation success : JT-23934
+[23-Dec-2011 10:10:01] XML creation success : JT-23935
+[23-Dec-2011 10:10:01] XML creation success : JT-23936
+[23-Dec-2011 10:10:01] XML creation success : JT-23937
+[23-Dec-2011 10:10:02] XML creation success : JT-23938
+[23-Dec-2011 10:10:02] XML creation success : JT-23939
+[23-Dec-2011 10:10:02] XML creation success : JT-23940
+[23-Dec-2011 12:03:25] JobN: 100593 - Entered
+[23-Dec-2011 12:05:03] File download successful for JT-23941
+[23-Dec-2011 12:10:00] XML creation success : JT-23941
+[24-Dec-2011 18:03:25] JobN: 100594 - Entered
+[24-Dec-2011 18:05:02] File download successful for JT-23942
+[24-Dec-2011 18:10:01] XML creation success : JT-23942
+[25-Dec-2011 12:03:16] JobN: 100595 - Entered
+[25-Dec-2011 12:10:04] XML creation success : JT-23943
+[26-Dec-2011 22:03:13] JobN: 100596 - Entered
+[26-Dec-2011 22:05:02] File download successful for JT-23944
+[26-Dec-2011 22:10:01] XML creation success : JT-23944
+[27-Dec-2011 09:03:08] FGINumber: 8781 - Entered
+[27-Dec-2011 09:03:09] FGINumber: 8782 - Entered
+[27-Dec-2011 09:03:09] FGINumber: 8782 - Entered
+[27-Dec-2011 09:03:10] FGINumber: 8782 - Entered
+[27-Dec-2011 09:10:04] XML creation success : JT-23945
+[27-Dec-2011 09:10:04] XML creation success : JT-23946
+[27-Dec-2011 09:10:04] XML creation success : JT-23947
+[27-Dec-2011 09:10:05] XML creation success : JT-23948
+[27-Dec-2011 10:03:04] JobN: 100610 - Entered
+[27-Dec-2011 10:05:02] File download successful for JT-23949
+[27-Dec-2011 10:10:00] XML creation success : JT-23949
+[27-Dec-2011 11:03:06] JobN: 100613 - Entered
+[27-Dec-2011 11:03:06] JobN: 100614 - Entered
+[27-Dec-2011 11:03:07] JobN: 100615 - Entered
+[27-Dec-2011 11:03:07] JobN: 100616 - Entered
+[27-Dec-2011 11:03:08] JobN: 100617 - Entered
+[27-Dec-2011 11:05:02] File download successful for JT-23950
+[27-Dec-2011 11:05:03] File download successful for JT-23951
+[27-Dec-2011 11:05:04] File download successful for JT-23952
+[27-Dec-2011 11:05:06] File download successful for JT-23953
+[27-Dec-2011 11:05:08] File download successful for JT-23954
+[27-Dec-2011 11:10:01] XML creation success : JT-23950
+[27-Dec-2011 11:10:01] XML creation success : JT-23951
+[27-Dec-2011 11:10:01] XML creation success : JT-23952
+[27-Dec-2011 11:10:01] XML creation success : JT-23953
+[27-Dec-2011 11:10:01] XML creation success : JT-23954
+[27-Dec-2011 12:03:07] JobN: 100620 - Entered
+[27-Dec-2011 12:03:07] JobN: 100621 - Entered
+[27-Dec-2011 12:03:08] JobN: 100622 - Entered
+[27-Dec-2011 12:03:08] JobN: 100623 - Entered
+[27-Dec-2011 12:05:02] File download successful for JT-23955
+[27-Dec-2011 12:05:04] File download successful for JT-23958
+[27-Dec-2011 12:05:06] File download successful for JT-23956
+[27-Dec-2011 12:05:08] File download successful for JT-23957
+[27-Dec-2011 12:10:01] XML creation success : JT-23955
+[27-Dec-2011 12:10:01] XML creation success : JT-23958
+[27-Dec-2011 12:10:01] XML creation success : JT-23956
+[27-Dec-2011 12:10:02] XML creation success : JT-23957
+[27-Dec-2011 13:03:09] JobN: 100625 - Entered
+[27-Dec-2011 13:03:09] JobN: 100626 - Entered
+[27-Dec-2011 13:03:10] JobN: 100627 - Entered
+[27-Dec-2011 13:03:11] JobN: 100628 - Entered
+[27-Dec-2011 13:03:11] JobN: 100629 - Entered
+[27-Dec-2011 13:03:12] JobN: 100630 - Entered
+[27-Dec-2011 13:03:12] JobN: 100631 - Entered
+[27-Dec-2011 13:03:13] JobN: 100632 - Entered
+[27-Dec-2011 13:03:13] JobN: 100633 - Entered
+[27-Dec-2011 13:03:14] JobN: 100634 - Entered
+[27-Dec-2011 13:05:02] File download successful for JT-23959
+[27-Dec-2011 13:05:03] File download successful for JT-23960
+[27-Dec-2011 13:05:04] File download successful for JT-23961
+[27-Dec-2011 13:05:05] File download successful for JT-23962
+[27-Dec-2011 13:05:07] File download successful for JT-23963
+[27-Dec-2011 13:05:08] File download successful for JT-23964
+[27-Dec-2011 13:05:09] File download successful for JT-23965
+[27-Dec-2011 13:05:10] File download successful for JT-23966
+[27-Dec-2011 13:05:12] File download successful for JT-23967
+[27-Dec-2011 13:05:13] File download successful for JT-23968
+[27-Dec-2011 13:10:00] XML creation success : JT-23959
+[27-Dec-2011 13:10:01] XML creation success : JT-23960
+[27-Dec-2011 13:10:01] XML creation success : JT-23961
+[27-Dec-2011 13:10:01] XML creation success : JT-23962
+[27-Dec-2011 13:10:01] XML creation success : JT-23963
+[27-Dec-2011 13:10:02] XML creation success : JT-23964
+[27-Dec-2011 13:10:02] XML creation success : JT-23965
+[27-Dec-2011 13:10:02] XML creation success : JT-23966
+[27-Dec-2011 13:10:03] XML creation success : JT-23967
+[27-Dec-2011 13:10:03] XML creation success : JT-23968
+[27-Dec-2011 14:03:08] FGINumber: 8783 - Entered
+[27-Dec-2011 14:10:00] XML creation success : JT-23969
+[27-Dec-2011 15:03:08] JobN: 100646 - Entered
+[27-Dec-2011 15:05:02] File download successful for JT-23970
+[27-Dec-2011 15:10:02] XML creation success : JT-23970
+[27-Dec-2011 16:03:07] RUSH order processed after 4:00PM
+[27-Dec-2011 16:03:07] -RESOLVED- PHP Warning:  mssql_query(): message: Incorrect syntax near '2011'. (severity 15) in C:\webs\printable\printable_to_logic\insert_logic.php on line 222
+[27-Dec-2011 16:03:07] -RESOLVED- PHP Warning:  mssql_query(): message: Unclosed quotation mark after the character string ', 0)'. (severity 15) in C:\webs\printable\printable_to_logic\insert_logic.php on line 222
+[27-Dec-2011 16:03:07] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_logic.php on line 222
+[27-Dec-2011 16:03:07] -RESOLVED- PHP Warning:  mssql_query(): message: The INSERT statement conflicted with the FOREIGN KEY constraint "OK_JobShipmentsOpenJob". The conflict occurred in database "pLogic", table "dbo.OpenJob", column 'JobN'. (severity 16) in C:\webs\printable\printable_to_logic\insert_logic.php on line 291
+[27-Dec-2011 16:03:07] -RESOLVED- PHP Warning:  mssql_query(): Query failed in C:\webs\printable\printable_to_logic\insert_logic.php on line 291
+[27-Dec-2011 16:03:07] JobN: 100650 - Entered
+[27-Dec-2011 16:05:02] File download successful for JT-23971
+[27-Dec-2011 16:10:01] XML creation success : JT-23971
+[28-Dec-2011 02:03:19] JobN: 100651 - Entered
+[28-Dec-2011 02:05:04] File download successful for JT-23972
+[28-Dec-2011 02:10:04] XML creation success : JT-23972
+[28-Dec-2011 09:42:12] JobN: 100652 - Entered
+[28-Dec-2011 09:42:12] JobN: 100653 - Entered
+[28-Dec-2011 09:44:23] File download successful for JT-23973
+[28-Dec-2011 09:44:28] File download successful for JT-23974
+[28-Dec-2011 09:48:04] XML creation success : JT-23973
+[28-Dec-2011 09:48:04] XML creation success : JT-23974
+[28-Dec-2011 10:42:10] FGINumber: 8784 - Entered
+[28-Dec-2011 10:48:01] XML creation success : JT-23975
+[28-Dec-2011 11:07:01] RUSH order processed before 4:00PM
+[28-Dec-2011 11:07:01] JobN: 100658 - Entered
+[28-Dec-2011 11:18:15] RUSH order processed before 4:00PM
+[28-Dec-2011 11:18:15] JobN: 100659 - Entered
+[28-Dec-2011 11:20:19] RUSH order processed before 4:00PM
+[28-Dec-2011 11:20:19] JobN: 100659 - Entered
+[28-Dec-2011 11:25:17] RUSH order processed before 4:00PM
+[28-Dec-2011 11:25:17] JobN: 100659 - Entered
+[28-Dec-2011 11:29:21] RUSH order processed before 4:00PM
+[28-Dec-2011 11:29:21] JobN: 100659 - Entered
+[28-Dec-2011 11:31:02] RUSH order processed before 4:00PM
+[28-Dec-2011 11:31:02] JobN: 100659 - Entered
+[28-Dec-2011 11:42:38] File download successful for JT-23971
+[28-Dec-2011 11:48:00] XML creation success : JT-23971
+[28-Dec-2011 14:38:28] JobN: 100668 - Entered
+[28-Dec-2011 14:38:28] Email sent to: printableajt@finelink.com - New JobN - 100668
+[28-Dec-2011 14:38:29] JobN: 100669 - Entered
+[28-Dec-2011 14:38:29] Email sent to: printableajt@finelink.com - New JobN - 100669
+[28-Dec-2011 14:38:29] JobN: 100670 - Entered
+[28-Dec-2011 14:38:30] Email sent to: printableajt@finelink.com - New JobN - 100670
+[28-Dec-2011 14:38:30] JobN: 100671 - Entered
+[28-Dec-2011 14:38:30] Email sent to: printableajt@finelink.com - New JobN - 100671
+[28-Dec-2011 14:38:31] JobN: 100672 - Entered
+[28-Dec-2011 14:38:31] Email sent to: printableajt@finelink.com - New JobN - 100672
+[28-Dec-2011 14:38:46] File download successful for JT-23976
+[28-Dec-2011 14:38:48] File download successful for JT-23977
+[28-Dec-2011 14:38:49] File download successful for JT-23978
+[28-Dec-2011 14:38:50] File download successful for JT-23979
+[28-Dec-2011 14:38:51] File download successful for JT-23980
+[28-Dec-2011 14:39:17] XML creation success : JT-23976
+[28-Dec-2011 14:39:17] XML creation success : JT-23977
+[28-Dec-2011 14:39:17] XML creation success : JT-23978
+[28-Dec-2011 14:39:18] XML creation success : JT-23979
+[28-Dec-2011 14:39:18] XML creation success : JT-23980
+[28-Dec-2011 16:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 16:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 16:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 16:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 16:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:40:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:40:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:40:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:40:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:40:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 17:42:12] PHP Warning:  CONNECTION LOST
+[28-Dec-2011 19:42:12] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - New FGINumber - 8788
+[28-Dec-2011 19:42:12] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:12] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:13] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:13] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:13] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:14] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:14] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:15] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:15] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:16] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:16] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:16] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:17] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:17] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:18] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:18] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:19] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:19] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:20] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:20] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:21] FGINumber: 8788 - Entered
+[28-Dec-2011 19:42:21] FGINumber: 8788 - Entered
+[28-Dec-2011 19:48:00] XML creation success : JT-23981
+[28-Dec-2011 19:48:00] XML creation success : JT-23982
+[28-Dec-2011 19:48:01] XML creation success : JT-23983
+[28-Dec-2011 19:48:01] XML creation success : JT-23984
+[28-Dec-2011 19:48:01] XML creation success : JT-23985
+[28-Dec-2011 19:48:01] XML creation success : JT-23986
+[28-Dec-2011 19:48:01] XML creation success : JT-23987
+[28-Dec-2011 19:48:02] XML creation success : JT-23988
+[28-Dec-2011 19:48:02] XML creation success : JT-23989
+[28-Dec-2011 19:48:02] XML creation success : JT-23990
+[28-Dec-2011 19:48:02] XML creation success : JT-23991
+[28-Dec-2011 19:48:02] XML creation success : JT-23992
+[28-Dec-2011 19:48:03] XML creation success : JT-23993
+[28-Dec-2011 19:48:03] XML creation success : JT-23994
+[28-Dec-2011 19:48:03] XML creation success : JT-23995
+[28-Dec-2011 19:48:03] XML creation success : JT-23996
+[28-Dec-2011 19:48:03] XML creation success : JT-23997
+[28-Dec-2011 19:48:03] XML creation success : JT-23998
+[28-Dec-2011 19:48:04] XML creation success : JT-23999
+[28-Dec-2011 19:48:04] XML creation success : JT-24000
+[28-Dec-2011 19:48:04] XML creation success : JT-24001
+[28-Dec-2011 19:48:04] XML creation success : JT-24002
+[29-Dec-2011 10:42:13] JobN: 100679 - Entered
+[29-Dec-2011 10:42:14] Email sent to: printableajt@finelink.com - New JobN - 100679
+[29-Dec-2011 10:44:02] File download successful for JT-24003
+[29-Dec-2011 10:48:05] XML creation success : JT-24003
+[29-Dec-2011 11:42:12] FGINumber: 8782 - Entered
+[29-Dec-2011 11:48:02] XML creation success : JT-24004
+[29-Dec-2011 12:24:58] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - New FGINumber - 8789
+[29-Dec-2011 12:24:58] FGINumber: 8789 - Entered
+[29-Dec-2011 12:24:59] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - New FGINumber - 8790
+[29-Dec-2011 12:24:59] FGINumber: 8790 - Entered
+[29-Dec-2011 12:25:00] JobN: 100682 - Entered
+[29-Dec-2011 12:25:00] Email sent to: printableajt@finelink.com - New JobN - 100682
+[29-Dec-2011 12:25:00] JobN: 100683 - Entered
+[29-Dec-2011 12:25:00] Email sent to: printableajt@finelink.com - New JobN - 100683
+[29-Dec-2011 12:25:01] JobN: 100684 - Entered
+[29-Dec-2011 12:25:01] Email sent to: printableajt@finelink.com - New JobN - 100684
+[29-Dec-2011 12:27:30] XML creation success : JT-24005
+[29-Dec-2011 12:27:30] XML creation success : JT-24006
+[29-Dec-2011 12:27:30] XML creation success : JT-24007
+[29-Dec-2011 12:27:30] XML creation success : JT-24008
+[29-Dec-2011 12:27:30] XML creation success : JT-24009
+[29-Dec-2011 12:40:05] File download successful for JT-24007
+[29-Dec-2011 12:41:22] File download successful for JT-24008
+[29-Dec-2011 12:42:44] File download successful for JT-24009
+[29-Dec-2011 12:45:15] XML creation success : JT-24007
+[29-Dec-2011 12:45:15] XML creation success : JT-24008
+[29-Dec-2011 12:45:15] XML creation success : JT-24009
+[29-Dec-2011 13:42:13] JobN: 100687 - Entered
+[29-Dec-2011 13:42:14] Email sent to: printableajt@finelink.com - New JobN - 100687
+[29-Dec-2011 13:44:01] File download successful for JT-24010
+[29-Dec-2011 13:48:01] XML creation success : JT-24010
+[29-Dec-2011 15:42:14] JobN: 100689 - Entered
+[29-Dec-2011 15:42:15] Email sent to: printableajt@finelink.com - New JobN - 100689
+[29-Dec-2011 15:42:15] JobN: 100690 - Entered
+[29-Dec-2011 15:42:15] Email sent to: printableajt@finelink.com - New JobN - 100690
+[29-Dec-2011 15:44:02] File download successful for JT-24011
+[29-Dec-2011 15:44:02] File download successful for JT-24012
+[29-Dec-2011 15:48:01] XML creation success : JT-24011
+[29-Dec-2011 15:48:01] XML creation success : JT-24012
+[29-Dec-2011 17:42:13] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - New FGINumber - 8791
+[29-Dec-2011 17:42:13] FGINumber: 8791 - Entered
+[29-Dec-2011 17:48:00] XML creation success : JT-24013
+[30-Dec-2011 03:41:03] PHP Warning:  CONNECTION LOST
+[30-Dec-2011 08:36:41] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - New FGINumber - 8792
+[30-Dec-2011 08:36:41] FGINumber: 8792 - Entered
+[30-Dec-2011 08:36:42] RUSH order processed before 4:00PM
+[30-Dec-2011 08:36:42] JobN: 100692 - Entered
+[30-Dec-2011 08:36:42] Email sent to: printableajt@finelink.com - New JobN - 100692
+[30-Dec-2011 08:37:04] File download successful for JT-24015
+[30-Dec-2011 08:37:33] XML creation success : JT-24014
+[30-Dec-2011 08:37:33] XML creation success : JT-24015
+[30-Dec-2011 09:42:14] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - New FGINumber - 8793
+[30-Dec-2011 09:42:14] FGINumber: 8793 - Entered
+[30-Dec-2011 09:42:15] FGINumber: 8793 - Entered
+[30-Dec-2011 09:42:15] FGINumber: 8793 - Entered
+[30-Dec-2011 09:48:00] XML creation success : JT-24016
+[30-Dec-2011 09:48:01] XML creation success : JT-24017
+[30-Dec-2011 09:48:01] XML creation success : JT-24018
+[30-Dec-2011 13:26:19] JobN: 100703 - Entered
+[30-Dec-2011 13:26:19] Email sent to: printableajt@finelink.com - JT-24019 - New JobN - 100703
+[30-Dec-2011 13:26:20] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-24020 - New FGINumber - 8794
+[30-Dec-2011 13:26:20] FGINumber: 8794 - Entered
+[30-Dec-2011 13:26:21] JobN: 100704 - Entered
+[30-Dec-2011 13:26:21] Email sent to: printableajt@finelink.com - JT-24021 - New JobN - 100704
+[30-Dec-2011 13:26:58] File download successful for JT-24019
+[30-Dec-2011 13:31:29] XML creation success : JT-24019
+[30-Dec-2011 13:31:29] XML creation success : JT-24020
+[30-Dec-2011 13:31:29] XML creation success : JT-24021
+[30-Dec-2011 13:42:16] JobN: 100705 - Entered
+[30-Dec-2011 13:42:16] Email sent to: printableajt@finelink.com - JT-24022 - New JobN - 100705
+[30-Dec-2011 13:42:16] JobN: 100706 - Entered
+[30-Dec-2011 13:42:17] Email sent to: printableajt@finelink.com - JT-24023 - New JobN - 100706
+[30-Dec-2011 13:44:01] File download successful for JT-24022
+[30-Dec-2011 13:44:02] File download successful for JT-24023
+[30-Dec-2011 13:48:00] XML creation success : JT-24022
+[30-Dec-2011 13:48:03] XML creation success : JT-24023
+[30-Dec-2011 14:42:14] Email sent to: printableajt@finelink.com,shipping@finelink.com,rayv@finelink.com - JT-24024 - New FGINumber - 8795
+[30-Dec-2011 14:42:14] FGINumber: 8795 - Entered
+[30-Dec-2011 14:42:15] JobN: 100707 - Entered
+[30-Dec-2011 14:42:15] Email sent to: printableajt@finelink.com - JT-24025 - New JobN - 100707
+[30-Dec-2011 14:42:15] FGINumber: 8795 - Entered
+[30-Dec-2011 14:42:16] FGINumber: 8795 - Entered
+[30-Dec-2011 14:48:00] XML creation success : JT-24024
+[30-Dec-2011 14:48:01] XML creation success : JT-24025
+[30-Dec-2011 14:48:01] XML creation success : JT-24026
+[30-Dec-2011 14:48:01] XML creation success : JT-24027
+[30-Dec-2011 19:42:14] JobN: 100714 - Entered
+[30-Dec-2011 19:42:15] Email sent to: printableajt@finelink.com - JT-24028 - New JobN - 100714
+[30-Dec-2011 19:44:01] File download successful for JT-24028
+[30-Dec-2011 19:48:00] XML creation success : JT-24028
