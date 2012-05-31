@@ -311,10 +311,10 @@ function insert_logic($db, $jt_number, $debug)
                 }
                 else
                 {
-                        $shipMethodN = 2;
+                        //$shipMethodN = 2;
                 }
 
-                $JSShippingMethod = 2; // default for now <-- NOT EVEN USED!
+                //$JSShippingMethod = 2; // default for now <-- NOT EVEN USED!
 
                 $JSQty = $row['Quantity'];
                 $JSCompanyName = $row['ShippingAddress_CompanyName'];
