@@ -171,5 +171,6 @@ printable_responses/
 job_ticket_files/
 nbproject/
 prinergyFiles/
+~error_log/
 *.lnk
 .txt
