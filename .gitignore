@@ -172,4 +172,4 @@ job_ticket_files/
 nbproject/
 prinergyFiles/
 *.lnk
-*.txt
+.txt
